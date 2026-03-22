@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @YanTheisenn
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML5, CSS3 and JS
+- 👀 I’m interested in coding with python!
+- 🌱 I’m currently learning Python
