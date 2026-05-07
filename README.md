@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @YanTheisenn
-- 👀 I’m interested in coding with python!
-- 🌱 I’m currently learning Python
+oi, me chamo Yan
+tô aprendendo python
+estudo na Fundação Liberato
+🤗
