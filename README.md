@@ -1,4 +1,4 @@
-oi, me chamo Yan
-tô aprendendo python
-estudo na Fundação Liberato
-🤗
+- oi, me chamo Yan
+- tô aprendendo python
+- estudo na Fundação Liberato
+- 🤗
